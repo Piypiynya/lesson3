@@ -1,0 +1,65 @@
+h1 {
+	color: #597d7d;
+}
+
+span {
+	color: #1bdc38;
+}
+
+.text-origin {
+	color: #2d7953;
+}
+
+#description {
+	color: #691680;
+}
+
+#appearance {
+	color: #765380;
+}
+
+div.text {
+	color: #7c1680;
+}
+
+.text-voice.pigeon {
+	color: #65a165;
+}
+
+
+#voice,
+#sense-organs,
+#movement {
+	color: #bd203f;
+}
+
+.text-self-care,
+.text-movement {
+	color: #bdb720;
+}
+
+/* Вкладеність */
+
+.text-domestication p {
+	color: aqua;
+}
+
+.text-reproduction .p-reproduction {
+	color: #8269db
+}
+
+.two-part * {
+	color: #1bdc38
+}
+
+.text-food~p {
+	color: #bd203f
+}
+
+.text-enemies>p {
+	color: #7a7942
+}
+
+.text-culture+p {
+	color: #f582a8;
+}
